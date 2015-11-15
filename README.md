@@ -12,7 +12,7 @@ Information about Java Game...
 ```
 #Build History
 
-0.0.1  Initial Push
+0.0.1 - - - - - Initial Push
 
 # Copyright
 Copyright(c) 2015 Oliver Enterprises
