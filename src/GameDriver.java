@@ -36,12 +36,19 @@ public class GameDriver
 		
 		/*
 		JFrame mainGameFrame = new JFrame("TIC TAC TOE");
+<<<<<<< HEAD
 		//JFrame.setDefaultLookAndFeelDecorated(true);
 		
 		mainGameFrame.setResizable(true);
 		mainGameFrame.setSize(1400,800);
 		mainGameFrame.setVisible(true);
 
+=======
+		//mainGameFrame.setDefaultLookAndFeelDecorated(true);
+		mainGameFrame.setResizable(true);
+		mainGameFrame.setSize(1400,800);
+		mainGameFrame.setVisible(true);
+>>>>>>> origin/master
 		mainGameFrame.setLocationRelativeTo(null);
 		mainGameFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		*/
